@@ -462,7 +462,7 @@
 }
 .banner-top.style-1 {
   padding: 231px 0 99px;
-  background: url(../images/Slider.jpg) no-repeat;
+  /* background: url(../images/Slider.jpg) no-repeat; */
   background-size: cover;
 }
 @media only screen and (max-width: 767px) {
@@ -2881,7 +2881,7 @@
 }
 .features.style-2 {
   padding: 80px 0 64px;
-  background: url(../images/bg-choose.jpg) no-repeat;
+  /* background: url(../images/bg-choose.jpg) no-repeat; */
 }
 .features.style-3 {
   padding: 87px 0 75px;
@@ -3370,7 +3370,7 @@
 }
 .road-map.style-2 {
   padding: 80px 0 252px;
-  background: url(../images/bg-roadmap.jpg);
+  /* background: url(../images/bg-roadmap.jpg); */
   background-size: cover;
   overflow: hidden;
 }
@@ -8644,10 +8644,10 @@
   }
 }
 .footer.style-2 {
-  background: url(../images/bg-roadmap.jpg) no-repeat;
+  /* background: url(../images/bg-roadmap.jpg) no-repeat; */
   background-size: cover;
   background-position: 50%;
-  background-color: rgba(61, 43, 111, 0.2);
+  /* background-color: rgba(61, 43, 111, 0.2); */
 }
 .footer.style-2 .footer__top {
   padding: 81px 0 60px;
@@ -34795,7 +34795,7 @@ form button.btn-action {
 }
 .home-main .features {
   padding: 80px 0 62px;
-  background: url(../images/bg-choose.jpg) no-repeat;
+  /* background: url(../images/bg-choose.jpg) no-repeat; */
   background-size: cover;
 }
 .home-main .documents.style-2 {
@@ -35259,7 +35259,7 @@ form button.btn-action {
 .features,
 .section-faq,
 .token-details {
-  background: #130f40;
+  /* background: #130f40; */
 }
 .home-main .section-faq.style-1 {
   padding: 79px 0;
